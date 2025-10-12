@@ -1,5 +1,5 @@
-# ⚡ Zeek
-
+# ⚡ Zeek 
+[![Freelance Developer](https://img.shields.io/badge/Role-Freelance%20Developer-blue?style=for-the-badge)]()
 `Full Stack Developer | Frontend & Backend Innovator`
 
 
