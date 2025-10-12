@@ -2,7 +2,6 @@
 
 `Full Stack Developer | Frontend & Backend Innovator`
 
----
 
 ### 🚀 About Me
 💡 Passionate about building modern, scalable, and visually appealing web applications.  
