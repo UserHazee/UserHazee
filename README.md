@@ -1,5 +1,6 @@
-# ⚡ Zeek    [![Freelance Developer](https://img.shields.io/badge/Role-Freelance%20Developer-0A0A0A?style=for-the-badge&logo=github&logoColor=00FFFF)]()
-[![Building with React & Node.js](https://img.shields.io/badge/Building%20with-React%20%26%20Node.js-0A0A0A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
+# ⚡ Zeek    [![Freelance Developer](https://img.shields.io/badge/Role-Freelance%20Developer-0A0A0A?style=for-the-badge&logo=github&logoColor=00FFFF)]() [![Building with React & Node.js](https://img.shields.io/badge/Building%20with-React%20%26%20Node.js-0A0A0A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
+
+---
 
 ---
 
