@@ -50,8 +50,8 @@ Also comfortable with version control, deployment, REST APIs, and UI design work
 ### 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zeek&show_icons=true&theme=github_dark&hide_border=true" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeek&layout=compact&theme=github_dark&hide_border=true" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=UserHazee&show_icons=true&theme=github_dark&hide_border=true" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UserHazee&layout=compact&theme=github_dark&hide_border=true" height="160px"/>
 </p>
 
 ---
