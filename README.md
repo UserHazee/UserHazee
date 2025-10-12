@@ -4,8 +4,6 @@
 
 ---
 
----
-
 ### 🚀 About Me
 💡 Passionate about building modern, scalable, and visually appealing web applications.  
 💻 I craft clean UI/UX with strong backend logic using modern technologies.  
