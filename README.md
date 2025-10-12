@@ -7,11 +7,10 @@
 `Full Stack Developer | Frontend & Backend Innovator`
 
 
-### About Me
-
-💻 I’m a passionate developer who loves turning ideas into functional web applications.  
-🚀 Skilled in both frontend and backend — from crafting pixel-perfect UIs to building powerful APIs.  
-🌐 Currently exploring advanced React and Node.js integrations, and improving deployment workflows.
+### 🚀 About Me
+💡 Passionate about building modern, scalable, and visually appealing web applications.  
+💻 I craft clean UI/UX with strong backend logic using modern technologies.  
+📈 Always learning, improving, and sharing my coding journey in public.  
 
 ---
 
@@ -21,9 +20,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,php,nodejs,mysql,mongodb,git,github,vercel,figma,bootstrap" />
 </p>
 
-<p align="center">
-Also comfortable with API integrations, UI design, deployment, and version control.
-</p>
+Also comfortable with version control, deployment, REST APIs, and UI design workflows.
 
 ---
 
@@ -57,11 +54,9 @@ Also comfortable with API integrations, UI design, deployment, and version contr
 ### 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Zeek&show_icons=true&theme=github_dark&hide_border=true" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeek&layout=compact&theme=github_dark&hide_border=true" height="160px"/>
 </p>
-
-> 🧩 *Replace `YOUR_GITHUB_USERNAME` above with your actual GitHub username to fix the stats section.*
 
 ---
 
@@ -69,7 +64,7 @@ Also comfortable with API integrations, UI design, deployment, and version contr
 
 <p align="center">
   <a href="https://www.facebook.com/share/19ptBKWcw9/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-0A0A0A?style=for-the-badge&logo=facebook&logoColor=00FFFF" />
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
 
