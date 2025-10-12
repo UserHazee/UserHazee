@@ -1,5 +1,8 @@
-<h1 align="center">👋 Zeek</h1>
-<h3 align="center">Front-End & Back-End Developer | Full Stack Enthusiast</h3>
+# ⚡ Zeek
+
+`Full Stack Developer | Frontend & Backend Innovator`
+
+---
 
 ---
 
