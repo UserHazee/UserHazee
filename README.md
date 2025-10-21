@@ -28,8 +28,7 @@ Also comfortable with version control, deployment, REST APIs, and UI design work
     <td align="center" width="33%">
       <img src="https://stravoph.netlify.app" alt="Project 1"/>
       <h4>STRAVO (Start-up Company)</h4>
-     <p>STRAVO is a growing software startup focused on building modern, high-performance websites and digital solutions for businesses. We combine design, development, and strategy to help brands establish a strong online presence.</p>
-
+      <p>STRAVO is a growing software startup focused on building modern, high-performance websites and digital solutions for businesses. We combine design, development, and strategy to help brands establish a strong online presence.</p>
       <p><b>Tech Used:</b> React, Node.js</p>
     </td>
     <td align="center" width="33%">
