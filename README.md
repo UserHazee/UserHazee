@@ -26,7 +26,7 @@ Also comfortable with version control, deployment, REST APIs, and UI design work
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://github.com/UserHazee/UserHazee/blob/main/stravo-preview.png?raw=true" alt="STRAVO Project Preview" width="400"/>
+      <img src="https://github.com/UserHazee/UserHazee/blob/main/Stravo.webp" alt="STRAVO Project Preview" width="400"/>
       <h4>STRAVO (Start-up Company)</h4>
       <p>Building efficient, scalable, and user-focused websites.</p>
       <p><b>Tech Used:</b> React, Tailwind, Node (via Netlify Functions)</p>
