@@ -26,19 +26,19 @@ Also comfortable with version control, deployment, REST APIs, and UI design work
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://stravoph.netlify.app" alt="Project 1"/>
+      <img src="https://github.com/UserHazee/UserHazee/blob/main/stravo-preview.png?raw=true" alt="STRAVO Project Preview" width="400"/>
       <h4>STRAVO (Start-up Company)</h4>
       <p>Building efficient, scalable, and user-focused websites.</p>
-      <p><b>Tech Used:</b>React, Tailwind, Node (via Netlify Functions)</p>
+      <p><b>Tech Used:</b> React, Tailwind, Node (via Netlify Functions)</p>
     </td>
     <td align="center" width="33%">
-      <img src="https://via.placeholder.com/400x200?text=Project+2+Preview" alt="Project 2"/>
+      <img src="https://github.com/UserHazee/UserHazee/blob/main/project2.png?raw=true" alt="Project 2" width="400"/>
       <h4>🚧 Project Two (Placeholder)</h4>
       <p>Short description about your second project.</p>
       <p><b>Tech Used:</b> PHP, Bootstrap, MySQL</p>
     </td>
     <td align="center" width="33%">
-      <img src="https://via.placeholder.com/400x200?text=Project+3+Preview" alt="Project 3"/>
+      <img src="https://github.com/UserHazee/UserHazee/blob/main/project3.png?raw=true" alt="Project 3" width="400"/>
       <h4>🚧 Project Three (Placeholder)</h4>
       <p>Overview or goal of this project.</p>
       <p><b>Tech Used:</b> MERN Stack</p>
