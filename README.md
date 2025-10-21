@@ -35,7 +35,6 @@ Also comfortable with version control, deployment, REST APIs, and UI design work
         <b>Tech Used:</b> React, Tailwind, Node (via Netlify Functions)
       </p>
     </td>
-
     <td align="center" width="33%" style="padding: 20px; vertical-align: top;">
       <img src="https://github.com/UserHazee/UserHazee/blob/main/project2.png?raw=true" alt="Project 2" width="360" style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
       <h3 style="margin-top: 12px; color: #E2001A;">🚧 Project Two (Placeholder)</h3>
@@ -46,7 +45,6 @@ Also comfortable with version control, deployment, REST APIs, and UI design work
         <b>Tech Used:</b> PHP, Bootstrap, MySQL
       </p>
     </td>
-
     <td align="center" width="33%" style="padding: 20px; vertical-align: top;">
       <img src="https://github.com/UserHazee/UserHazee/blob/main/project3.png?raw=true" alt="Project 3" width="360" style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
       <h3 style="margin-top: 12px; color: #E2001A;">🚧 Project Three (Placeholder)</h3>
