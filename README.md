@@ -28,7 +28,7 @@ Also comfortable with version control, deployment, REST APIs, and UI design work
     <!-- STRAVO -->
     <td align="center" width="33%" style="padding: 20px; vertical-align: top;">
       <img src="https://github.com/UserHazee/UserHazee/blob/main/Stravo.webp?raw=true" alt="STRAVO Project Preview" width="360" style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
-      <h3 style="margin-top: 12px; color: #E2001A;">STRAVO (Start-up Company)</h3>
+      <h3 style="margin-top: 12px; color: #E2001A;">STRAVO (Software Development Company)</h3>
       <p style="font-size: 14px; color: #555; line-height: 1.6; margin: 10px 0;">
         Building efficient, scalable, and user-focused websites.
       </p>
