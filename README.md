@@ -27,7 +27,7 @@ Also comfortable with version control, deployment, REST APIs, and UI design work
   <tr>
     <!-- STRAVO -->
     <td align="center" width="33%" style="padding: 20px; vertical-align: top;">
-      <img src="https://github.com/UserHazee/UserHazee/blob/main/Stravo.webp?raw=true" alt="STRAVO Project Preview" width="360" style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
+      <img src="https://github.com/UserHazee/UserHazee/blob/main/Stravo.webp?raw=true" align="center" alt="STRAVO Project Preview" width="360" style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
       <h3 style="margin-top: 12px; color: #E2001A;">STRAVO (Software Development Company)</h3>
       <p style="font-size: 14px; color: #555; line-height: 1.6; margin: 10px 0;">
         Building efficient, scalable, and user-focused websites.
@@ -40,8 +40,8 @@ Also comfortable with version control, deployment, REST APIs, and UI design work
       </a>
     </td>
     <!-- PROJECT TWO -->
-    <td align="center" justify="center" width="33%" style="padding: 20px; vertical-align: top;">
-      <img src="https://github.com/UserHazee/UserHazee/blob/main/BTASS-web.webp?raw=true" alt="Project 2" width="360" style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
+    <td align="center"  width="33%" style="padding: 20px; vertical-align: top;">
+      <img src="https://github.com/UserHazee/UserHazee/blob/main/BTASS-web.webp?raw=true" align="center" alt="Project 2" width="360" style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
       <h3 style="margin-top: 12px; color: #E2001A;">🚧 Project Two (Placeholder)</h3>
       <p style="font-size: 14px; color: #555; line-height: 1.6; margin: 10px 0;">
         Short description about your second project.
@@ -55,7 +55,7 @@ Also comfortable with version control, deployment, REST APIs, and UI design work
     </td>
     <!-- PROJECT THREE -->
     <td align="center" width="33%" style="padding: 20px; vertical-align: top;">
-      <img src="https://github.com/UserHazee/UserHazee/blob/main/BTAPICT.png?raw=true" alt="Project 3" width="360" style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
+      <img src="https://github.com/UserHazee/UserHazee/blob/main/BTAPICT.png?raw=true" align="center" alt="Project 3" width="360" style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
       <h3 style="margin-top: 12px; color: #E2001A;">🚧 Project Three (Placeholder)</h3>
       <p style="font-size: 14px; color: #555; line-height: 1.6; margin: 10px 0;">
         Overview or goal of this project.
