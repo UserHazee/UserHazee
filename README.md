@@ -17,7 +17,6 @@
         🔗 Visit Project →
       </a>
     </td>
-
     <td align="center" width="33%" style="vertical-align: top; padding: 10px;">
       <a href="https://example.com" target="_blank">
         <img src="https://github.com/UserHazee/UserHazee/blob/main/BTASS-web.webp?raw=true" alt="Project 2" width="100%" style="border-radius: 10px; max-width: 100%; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
@@ -33,7 +32,6 @@
         🔗 Visit Project →
       </a>
     </td>
-
     <td align="center" width="33%" style="vertical-align: top; padding: 10px;">
       <a href="https://example.com" target="_blank">
         <img src="https://github.com/UserHazee/UserHazee/blob/main/BTAPICT.png?raw=true" alt="Project 3" width="100%" style="border-radius: 10px; max-width: 100%; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
