@@ -30,12 +30,12 @@ Also comfortable with version control, deployment, REST APIs, and UI design work
       <a href="https://stravoph.netlify.app/" target="_blank">
         <img src="https://github.com/UserHazee/UserHazee/blob/main/Stravo.webp?raw=true" alt="STRAVO Project Preview" width="100%" style="border-radius: 10px; max-width: 100%; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
       </a>
-      <h3 style="margin-top: 12px; color: #E2001A;">STRAVO</h3>
-      <p style="font-size: 14px; color: #555; line-height: 1.5; margin: 10px 0;">
+     <h3 style="margin-top: 12px; color: #E2001A;">STRAVO (Software Development Company)</h3>
+      <p style="font-size: 14px; color: #555; line-height: 1.6; margin: 10px 0;">
         Building efficient, scalable, and user-focused websites.
       </p>
-      <p style="font-size: 12px; color: #333; margin: 5px 0;">
-        <b>Tech Used:</b> React, Tailwind, Node
+      <p style="font-size: 13px; color: #333; margin: 5px 0;">
+        <b>Tech Used:</b> React, Tailwind, Node (via Netlify Functions)
       </p>
       <a href="https://stravoph.netlify.app/" target="_blank" style="font-size: 13px; color: #E2001A; text-decoration: none; font-weight: 600;">
         🔗 Visit Project →
