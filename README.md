@@ -60,7 +60,7 @@ Also comfortable with version control, deployment, REST APIs, and UI design work
     <!-- PROJECT THREE -->
    <td align="center" width="33%" style="vertical-align: top; padding: 10px;">
       <a href="https://example.com" target="_blank">
-        <img src="https://github.com/UserHazee/UserHazee/blob/main/BTAPICT.png?raw=true" alt="Project 3" width="100%" style="border-radius: 10px; max-width: 100%; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
+        <img src="https://github.com/UserHazee/UserHazee/blob/main/den-clinic.png?raw=true" alt="Project 3" width="100%" style="border-radius: 10px; max-width: 100%; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
       </a>
       <h3 style="margin-top: 12px; color: #E2001A;">Project Three</h3>
       <p style="font-size: 14px; color: #555; line-height: 1.5; margin: 10px 0;">
