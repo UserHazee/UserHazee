@@ -62,12 +62,12 @@ Also comfortable with version control, deployment, REST APIs, and UI design work
       <a href="https://example.com" target="_blank">
         <img src="https://github.com/UserHazee/UserHazee/blob/main/den-clinic.png?raw=true" alt="Project 3" width="100%" style="border-radius: 10px; max-width: 100%; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
       </a>
-      <h3 style="margin-top: 12px; color: #E2001A;">Project Three</h3>
+      <h3 style="margin-top: 12px; color: #E2001A;">Dental Clinic Website / Appointment System </h3>
       <p style="font-size: 14px; color: #555; line-height: 1.5; margin: 10px 0;">
-        Overview or goal of this project.
+        A dental clinic website with an integrated appointment booking system powered by Google Calendar.
       </p>
       <p style="font-size: 12px; color: #333; margin: 5px 0;">
-        <b>Tech Used:</b> MERN Stack
+        <b>Tech Used:</b> React JS, Fast API, Python, SQL
       </p>
       <a href="https://example.com" target="_blank" style="font-size: 13px; color: #E2001A; text-decoration: none; font-weight: 600;">
         🔗 Visit Project →
